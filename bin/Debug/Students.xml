@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <name>John</name>
+    <surName>Kennedy</surName>
+    <faculty>Informatics</faculty>
+    <direction>Applied Mathematics</direction>
+    <course>1</course>
+    <group>1</group>
+    <studcard>100000111</studcard>
+  </Student>
+  <Student>
+    <name>Rick</name>
+    <surName>Nilson</surName>
+    <faculty>Informatics</faculty>
+    <direction>Applied Mathematics</direction>
+    <course>2</course>
+    <group>1</group>
+    <studcard>100000211</studcard>
+  </Student>
+  <Student>
+    <name>Morty</name>
+    <surName>Fox</surName>
+    <faculty>Informatics</faculty>
+    <direction>Applied Mathematics</direction>
+    <course>1</course>
+    <group>2</group>
+    <studcard>100000121</studcard>
+  </Student>
+  <Student>
+    <name>Nill</name>
+    <surName>Armstrong</surName>
+    <faculty>Informatics</faculty>
+    <direction>Applied Mathematics</direction>
+    <course>3</course>
+    <group>2</group>
+    <studcard>100000321</studcard>
+  </Student>
+  <Student>
+    <name>Barry</name>
+    <surName>Hills</surName>
+    <faculty>Informatics</faculty>
+    <direction>Applied Mathematics</direction>
+    <course>4</course>
+    <group>1</group>
+    <studcard>100000411</studcard>
+  </Student>
+  <Student>
+    <name>Don</name>
+    <surName>Shon</surName>
+    <faculty>Informatics</faculty>
+    <direction>Applied Mathematics</direction>
+    <course>2</course>
+    <group>1</group>
+    <studcard>100000212</studcard>
+  </Student>
+  <Student>
+    <name>Peter</name>
+    <surName>Pin</surName>
+    <faculty>Informatics</faculty>
+    <direction>Applied Mathematics</direction>
+    <course>1</course>
+    <group>4</group>
+    <studcard>100000141</studcard>
+  </Student>
+</ArrayOfStudent>

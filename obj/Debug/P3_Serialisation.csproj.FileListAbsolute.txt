@@ -1,0 +1,5 @@
+C:\Users\stanislav.stepaniuk\RiderProjects\P3_Serialisation\P3_Serialisation\bin\Debug\P3_Serialisation.exe
+C:\Users\stanislav.stepaniuk\RiderProjects\P3_Serialisation\P3_Serialisation\bin\Debug\P3_Serialisation.pdb
+C:\Users\stanislav.stepaniuk\RiderProjects\P3_Serialisation\P3_Serialisation\obj\Debug\P3_Serialisation.csprojResolveAssemblyReference.cache
+C:\Users\stanislav.stepaniuk\RiderProjects\P3_Serialisation\P3_Serialisation\obj\Debug\P3_Serialisation.exe
+C:\Users\stanislav.stepaniuk\RiderProjects\P3_Serialisation\P3_Serialisation\obj\Debug\P3_Serialisation.pdb
